@@ -25,16 +25,17 @@
 	"footer-closing1-style": "padding-top:30px; font-family:Helvetica Neue, Helvetica, sans-serif;font-size:20px;color:#212121;line-height:1.5em;margin-bottom: 10px;",
 	"footer-closing2": "<g:message code='clientname'>",
 	"footer-closing2-style": "adding-bottom: 35px;font-family:Helvetica Neue, Helvetica, sans-serif;font-size:20px;color:#212121;line-height:1.5em;margin:0;",
+
 	"footer-optout-link": "<g:message code='email.rm.unsubscribe' args='${[turnToRseOptOutLink]}'/>",
-	"footer-optout-style": "font-family: Helvetica Neue, Helvetica, sans-serif; font-size: 13px; color:#757575; text-align: center; margin: 20px 30px 0px 30px;",
+	"footer-optout-style": "text-decoration: underline !important; color:#4c4c4c;",
 	"footer-optout-text": "unsubscribe",
 	
 	"footer-trouble-clicking-link": "<g:message code='email.rm.troubleClicking' args='${['${items[0].reviewLink ?: ''}%26turntoFromRebelmail%3D1']}'/>",
-	"footer-trouble-clicking-style": "font-family: Helvetica Neue, Helvetica, sans-serif; font-size: 13px; color:#757575; text-align: center; margin: 20px 30px 0px 30px;",
+	"footer-trouble-clicking-style": "text-decoration: underline !important; color:#4c4c4c;",
 	"footer-trouble-clicking-text": "this link",
 	
 	"footer-review-guidelines-link": "<g:message code='email.rm.reviewGuidelines' args='${['${items[0].rebelmailLink}&ttShowGuidelines=1']}'/>",
-	"footer-review-guidelines-style": "font-family: Helvetica Neue, Helvetica, sans-serif; font-size: 13px; color:#757575; text-align: center; margin: 20px 30px 0px 30px;",
+	"footer-review-guidelines-style": "text-decoration: underline !important; color:#4c4c4c;",
 	"footer-review-guidelines-text": "Review Guidelines"
 	
 
