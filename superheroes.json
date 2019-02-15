@@ -20,11 +20,11 @@
 	"photo-teaser-style": "font-family:Helvetica Neue, Helvetica, sans-serif; font-size:18px; color:#212121; margin: 15px 0;",
 	"photo-button": "SHARE A PHOTO",
 	"photo-button-link": "http://www.turnto.com/trackin/review/en_US?siteKey=FXvbEP9ZXZpRg6qsite&emailType=review&qs=turntosku%3DAPF353A0020%26turntoEmailType%3DreviewSolicitation%26turntosuid%3DS0kAaEsX%26transId%3D325913%26reviewStartAction%3DshareAPhoto%26turntoFromRebelmail%3D1",
-	"photo-button-style": "font-size:14px; font-weight: bold; font-family:Helvetica Neue, Helvetica, sans-serif; color:#ffffff; text-decoration:none; letter-spacing:1px;background:black;display:inline-block;border-radius: 3px;width:180px;height:40px;line-height:40px;mso-border-alt:2px solid black;"
-	"footer-closing1": "Many thanks,"
-	"footer-closing1-style": "padding-top:30px; font-family:Helvetica Neue, Helvetica, sans-serif;font-size:20px;color:#212121;line-height:1.5em;margin-bottom: 10px;"
-	"footer-closing2": "<g:message code='clientname'>"
-	"footer-closing2-style": "adding-bottom: 35px;font-family:Helvetica Neue, Helvetica, sans-serif;font-size:20px;color:#212121;line-height:1.5em;margin:0;"
+	"photo-button-style": "font-size:14px; font-weight: bold; font-family:Helvetica Neue, Helvetica, sans-serif; color:#ffffff; text-decoration:none; letter-spacing:1px;background:black;display:inline-block;border-radius: 3px;width:180px;height:40px;line-height:40px;mso-border-alt:2px solid black;",
+	"footer-closing1": "Many thanks,",
+	"footer-closing1-style": "padding-top:30px; font-family:Helvetica Neue, Helvetica, sans-serif;font-size:20px;color:#212121;line-height:1.5em;margin-bottom: 10px;",
+	"footer-closing2": "<g:message code='clientname'>",
+	"footer-closing2-style": "adding-bottom: 35px;font-family:Helvetica Neue, Helvetica, sans-serif;font-size:20px;color:#212121;line-height:1.5em;margin:0;",
 	"footer-optout-link": "<g:message code='email.rm.unsubscribe' args='${[turnToRseOptOutLink]}'/>,
 	"footer-optout-style": "font-family: Helvetica Neue, Helvetica, sans-serif; font-size: 13px; color:#757575; text-align: center; margin: 20px 30px 0px 30px;",
 	"footer-trouble-clicking-link": "<g:message code='email.rm.troubleClicking' args='${['${items[0].reviewLink ?: ''}%26turntoFromRebelmail%3D1']}'/>,
