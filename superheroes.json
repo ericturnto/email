@@ -20,44 +20,6 @@
 	"photo-teaser-style": "font-family:Helvetica Neue, Helvetica, sans-serif; font-size:18px; color:#212121; margin: 15px 0;",
 	"photo-button": "SHARE A PHOTO",
 	"photo-button-link": "http://www.turnto.com/trackin/review/en_US?siteKey=FXvbEP9ZXZpRg6qsite&emailType=review&qs=turntosku%3DAPF353A0020%26turntoEmailType%3DreviewSolicitation%26turntosuid%3DS0kAaEsX%26transId%3D325913%26reviewStartAction%3DshareAPhoto%26turntoFromRebelmail%3D1",
-	"photo-button-style": "font-size:14px; font-weight: bold; font-family:Helvetica Neue, Helvetica, sans-serif; color:#ffffff; text-decoration:none; letter-spacing:1px;background:black;display:inline-block;border-radius: 3px;width:180px;height:40px;line-height:40px;mso-border-alt:2px solid black;",
-"squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
-  "members" : [
-    {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
-    },
-    {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
-    },
-    {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
-    }
-  ]
+	"photo-button-style": "font-size:14px; font-weight: bold; font-family:Helvetica Neue, Helvetica, sans-serif; color:#ffffff; text-decoration:none; letter-spacing:1px;background:black;display:inline-block;border-radius: 3px;width:180px;height:40px;line-height:40px;mso-border-alt:2px solid black;"
+
 }
